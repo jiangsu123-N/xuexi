@@ -1716,11 +1716,11 @@
       "key": "88看球",
       "name": "💐88｜看球",
       "type": 3,
-      "api": "https://git.acwing.com/bh666/bhmb/-/raw/main/js/drpy2.min.js",
+      "api": "https://codeberg.org/Demo-1/xuexi/raw/branch/main/lib/drpy2.min.js",
       "style": {
         "type": "list"
       },
-      "ext": "https://git.acwing.com/bh666/bhmb/-/raw/main/js/88看球.js"
+      "ext": "https://codeberg.org/Demo-1/xuexi/raw/branch/main/js/88%E7%9C%8B%E7%90%83.js"
     },
     {
       "key": "急救教学",
@@ -2082,7 +2082,7 @@
     {
       "name": "AI直播",
       "type": 0,
-      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt",
+      "url": "https://gh-proxy.com/https://raw.bgithub.xyz/PizazzGY/TV/master/output/user_result.txt",
       "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "playerType": 2,
       "timeout": 10
